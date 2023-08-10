@@ -1,4 +1,4 @@
-# Custom-Vanilla-Custom-Core-Issue-Tracker
+# Custom-Series-Issue-Tracker
 Just an issue tracker for modpacks made by Fairweather
 
 Modpacks tracked here includes:
